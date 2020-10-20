@@ -5,3 +5,5 @@
 #### 內容：因武漢肺炎疫情關係做出一個管理系統，方便做進出管理
 ### PERT
 ![PERT](PERT.png "PERT")
+### Gantt
+![Gantt](Gantt.png "Gantt")
