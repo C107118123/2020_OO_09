@@ -11,3 +11,5 @@
 ![PERT](PERT.png "PERT")
 ### Gantt
 ![Gantt](Gantt.png "Gantt")
+### 功能分解圖
+![]
