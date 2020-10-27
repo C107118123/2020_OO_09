@@ -12,5 +12,4 @@
 ### Gantt
 ![Gantt](Gantt.png "Gantt")
 ### 功能分解圖
-![功能分解圖](功能分解圖.png "功能分解圖")
- 
+
