@@ -1,4 +1,8 @@
 # 2020_OO_09
+
+### PPT
+https://drive.google.com/file/d/1YAbyKiGB10FCAJPCC27qRK-mU7gXyJ5U/view?usp=sharing
+
 ### 姓名：林子軒
 ### 組員：林子軒
 ### 學號：C107118123 
