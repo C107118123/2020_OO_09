@@ -68,3 +68,6 @@ https://drive.google.com/file/d/1YAbyKiGB10FCAJPCC27qRK-mU7gXyJ5U/view?usp=shari
 ![分鏡圖4](分鏡圖4.PNG "分鏡圖4")
 
 ![分鏡圖5](分鏡圖5.PNG "分鏡圖5")
+
+#### 個體關係圖
+![個體關係圖](個體關係圖.PNG "個體關係圖")
