@@ -1,7 +1,7 @@
 # 2020_OO_09
 
 ### PPT
-https://drive.google.com/file/d/1YAbyKiGB10FCAJPCC27qRK-mU7gXyJ5U/view?usp=sharing
+https://drive.google.com/file/d/1fxQUwdZ1Ygg0u_fJT6_1A8DS_2zQCb1C/view?usp=sharing
 
 ### 姓名：林子軒
 ### 組員：林子軒
